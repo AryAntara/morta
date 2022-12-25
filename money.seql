@@ -1,0 +1,23 @@
+{
+  THIS IS CUSTOM CONFIG BY ME 
+  AND NOT a SQL syntax 
+  DON't TRY run this on your sql database
+  :) because it not work'
+  FIELD plus, minus is MADATORY PLEASE FILL IT
+    * plus for your income
+    * minus for your money has used by yourself or other 
+  # aryarte
+  # this is comment btw not make '{}' again. 
+  # because can make an error. 
+  # just use '_' for a space.
+
+  # HEHE :{|
+}
+
+
+NEW manajemen_uang
+ASSIGN FIELDS plus,minus,keterangan
+CREATE
+INSERT WITH 1000,0,untuk_beli_kue ON 2022-12-25
+INSERT WITH 3000,1000,untuk_beli_air ON 2022-12-26 
+DONE
